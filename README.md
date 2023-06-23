@@ -1,4 +1,4 @@
-# StudentEnrollmentForm
+# Student Enrollment Form in JSON Power DB.
 A student enrollment form using JavaScript and JSON Power DB.
 
 ## Benefits of usign JSON Power DB
